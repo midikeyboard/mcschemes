@@ -30,17 +30,17 @@ A repository intended for crowd-sourcing Minecraft .schematic/litematica files a
   bash copy_files.sh
 ```
     
+## Vanilla Minecraft Filepaths
+- Windows: `C:\Users\<username>\AppData\Roaming\.minecraft\schematics\`
+- Linux: `~/.minecraft/schematics/`
+- MacOS: `~/Library/Application Support/minecraft/schematics/`
+
 
 ## Contributing
 
 Contributions are always welcome!
 
 See `CONTRIBUTE.md` for ways to get started.
-
-## Vanilla Minecraft Filepaths
-- Windows: `C:\Users\<username>\AppData\Roaming\.minecraft\schematics\`
-- Linux: `~/.minecraft/schematics/`
-- MacOS: `~/Library/Application Support/minecraft/schematics/`
 
 ## Useful tools
 
