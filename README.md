@@ -27,7 +27,10 @@ Contributions are always welcome!
 
 See `CONTRIBUTE.md` for ways to get started.
 
-
+## Vanilla Minecraft Filepaths
+- Windows: `C:\Users\<username>\AppData\Roaming\.minecraft\schematics\`
+- Linux: `~/.minecraft/schematics/`
+- MacOS: `~/Library/Application Support/minecraft/schematics/`
 
 ## Useful tools
 
