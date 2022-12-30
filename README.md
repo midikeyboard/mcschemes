@@ -27,7 +27,6 @@ Contributions are always welcome!
 
 See `CONTRIBUTE.md` for ways to get started.
 
-Please adhere to this project's `code of conduct`.
 
 
 ## Useful tools
