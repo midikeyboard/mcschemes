@@ -20,6 +20,16 @@ A repository intended for crowd-sourcing Minecraft .schematic/litematica files a
 - (Redstone) Farms
 
 
+## Copy using bash (Linux and MacOS)
+
+ 
+```
+  git clone https://github.com/midikeyboard/MCSchemes.git
+  cd MCSchemes/  
+  chmod +x copy_files.sh
+  bash copy_files.sh
+```
+    
 
 ## Contributing
 
