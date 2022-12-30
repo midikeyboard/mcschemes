@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/midikeyboard/MCschemes/main/logo.png)
+![Logo](https://raw.githubusercontent.com/midikeyboard/MCschemes/main/mcslogo.png)
 
 
 # MCSchemes
