@@ -1,7 +1,7 @@
 
 ![Logo](https://raw.githubusercontent.com/midikeyboard/MCschemes/main/mcslogo.png)
 
-![MIT License](https://img.shields.io/badge/Schematics-0-ff69b4)
+![MIT License](https://img.shields.io/badge/Schematics-3-ff69b4)
 ![GPLv3 License](https://img.shields.io/badge/Saves-0-informational)
 ![AGPL License](https://img.shields.io/badge/Submissions-0-critical)
 
