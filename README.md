@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/midikeyboard/MCschemes/main/mcslogo.png)
+![Logo](https://raw.githubusercontent.com/midikeyboard/MCschemes/main/logo.png)
 
 ![MIT License](https://img.shields.io/badge/Schematics-3-ff69b4)
 ![GPLv3 License](https://img.shields.io/badge/Saves-0-informational)
