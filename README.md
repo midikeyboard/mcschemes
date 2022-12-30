@@ -8,7 +8,7 @@
 
 # MCSchemes
 
-A repository intended for crowd-sourcing Minecraft .schematic files and other cool projects
+A repository intended for crowd-sourcing Minecraft .schematic/litematica files and other tools.
 
 
 
