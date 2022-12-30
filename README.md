@@ -1,7 +1,15 @@
 
+![Logo](https://raw.githubusercontent.com/midikeyboard/MCschemes/main/logo.png)
+
+
 # MCSchemes
 
 A repository intended for crowd-sourcing Minecraft .schematic files and other cool projects
+
+
+![MIT License](https://img.shields.io/badge/Schematics-0-ff69b4)
+![GPLv3 License](https://img.shields.io/badge/Saves-0-informational)
+![AGPL License](https://img.shields.io/badge/Submissions-0-critical)
 
 
 ## Features
@@ -21,4 +29,3 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
-
