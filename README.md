@@ -3,7 +3,7 @@
 
 ![MIT License](https://img.shields.io/badge/Schematics-3-ff69b4)
 ![GPLv3 License](https://img.shields.io/badge/Saves-0-informational)
-![AGPL License](https://img.shields.io/badge/Submissions-0-critical)
+![AGPL License](https://img.shields.io/badge/Creators-3-critical)
 
 
 # MCSchemes
