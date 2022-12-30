@@ -26,6 +26,6 @@ A repository intended for crowd-sourcing Minecraft .schematic files and other co
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `CONTRIBUTE.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
