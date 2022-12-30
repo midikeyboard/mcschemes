@@ -37,4 +37,6 @@ Please adhere to this project's `code of conduct`.
 
 - [MCEdit by codewarrior0](https://www.mcedit.net/)
 
+- [Cubical.xyz] (https://cubical.xyz/)
+
 
