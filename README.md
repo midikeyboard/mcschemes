@@ -29,3 +29,12 @@ Contributions are always welcome!
 See `CONTRIBUTE.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
+
+## Useful tools
+
+- [Lite2Edit by GoldenDelicios](https://github.com/GoldenDelicios/Lite2Edit/releases)  
+
+- [MCEdit by codewarrior0](https://github.com/GoldenDelicios/Lite2Edit/releases)
+
+
