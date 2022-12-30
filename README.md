@@ -17,8 +17,7 @@ A repository intended for crowd-sourcing Minecraft .schematic files and other co
 - Houses
 - Towns
 - Paths
-- Redstone
-- Farms
+- (Redstone) Farms
 
 
 
