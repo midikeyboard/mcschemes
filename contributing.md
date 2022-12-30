@@ -1,4 +1,4 @@
-# Contributing to CONTRIBUTING.md
+# Contributing to MCSchemes
 
 First off, thanks for taking the time to contribute! 
 
@@ -13,7 +13,6 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Table of Contents
 
-- [Code of Conduct](#code-of-conduct)
 - [I Have a Question](#i-have-a-question)
 - [I Want To Contribute](#i-want-to-contribute)
 - [Reporting Bugs](#reporting-bugs)
@@ -22,13 +21,6 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [Styleguides](#styleguides)
 - [Join The Project Team](#join-the-project-team)
 
-
-## Code of Conduct
-
-This project and everyone participating in it is governed by the
-[CONTRIBUTING.md Code of Conduct](blob/master/CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior
-to <>.
 
 
 ## I Have a Question
@@ -126,4 +118,4 @@ Enhancement suggestions are tracked as [GitHub issues](/issues).
 
 ## Join The Project Team
 
-> Once there is some interaction i might set up a discord server or something along those lines.
+> Discord Server is still a work-in-progress.
