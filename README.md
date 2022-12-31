@@ -17,7 +17,8 @@ A repository intended for crowd-sourcing Minecraft .schematic/litematica files a
 - Houses
 - Towns
 - Paths
-- (Redstone) Farms
+- Farms
+- Redstone
 
 
 ## Copy using bash (Linux and MacOS)
