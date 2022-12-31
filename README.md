@@ -39,6 +39,15 @@ A repository intended for crowd-sourcing Minecraft .schematic/litematica files a
   ~/.Minecraft/Schematics/
 ```
 
+## Copy using batch (Windows)
+
+ 
+```
+  Open copy_files.bat
+  Select your type of minecraft installation (i.e: Vanilla, MultiMC, Technic)
+  
+```
+
 ## Vanilla Minecraft Filepaths
 - Windows: `C:\Users\<username>\AppData\Roaming\.minecraft\schematics\`
 - Linux: `~/.minecraft/schematics/`
