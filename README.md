@@ -25,26 +25,26 @@ A repository intended for crowd-sourcing Minecraft .schematic/litematica files a
 
  
 ```
-  chmod +x copy_files.sh
-  bash copy_files.sh
-  ~/.Minecraft/Schematics/
+  # chmod +x copy_files.sh
+  # bash copy_files.sh
+  # ~/.Minecraft/Schematics/
 ```
 ## Copy using Python
 
  
 ```
-  git clone https://github.com/midikeyboard/MCSchemes.git
-  cd MCSchemes/  
-  python copy_files.py
-  ~/.Minecraft/Schematics/
+  # git clone https://github.com/midikeyboard/MCSchemes.git
+  # cd MCSchemes/  
+  # python copy_files.py
+  # ~/.Minecraft/Schematics/
 ```
 
 ## Copy using batch (Windows)
 
  
 ```
-  Open copy_files.bat
-  Select your type of minecraft installation (i.e: Vanilla, MultiMC, Technic)
+  # Open copy_files.bat
+  # Select your type of minecraft installation (i.e: Vanilla, MultiMC, Technic)
   ```
 
 ## Vanilla Minecraft Filepaths
