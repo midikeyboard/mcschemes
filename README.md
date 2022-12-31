@@ -1,7 +1,7 @@
 
 ![Logo](https://i.postimg.cc/Hsyv1WGn/mcslogo-236x236.png)
 
-![MIT License](https://img.shields.io/badge/Schematics-44-ff69b4)
+![MIT License](https://img.shields.io/badge/Schematics-44-green)
 ![GPLv3 License](https://img.shields.io/badge/Saves-0-informational)
 ![AGPL License](https://img.shields.io/badge/Creators-8-critical)
 
