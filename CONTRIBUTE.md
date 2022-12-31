@@ -17,7 +17,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [I Want To Contribute](#i-want-to-contribute)
 - [Suggesting Enhancements](#suggesting-enhancements)
 - [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
+- [Guidelines](#guidelines)
 - [Join The Project Team](#join-the-project-team)
 
 
@@ -72,9 +72,18 @@ Enhancement suggestions are tracked as [GitHub issues](/issues).
 ### Improving The Documentation
 
 
-## Styleguides
+## Guidelines
 
 
-## Join The Project Team
+## Contributors
 
-> Discord Server is still a work-in-progress.
+- [NeoNyteZ](https://www.github.com/midikeyboard)
+- [daniel01454w](https://www.minecraft-schematics.com/user/daniel01454w/)
+- [WinterSn0w](https://www.minecraft-schematics.com/user/wintersn0w/)
+- [LaMantecaRePistola](https://www.minecraft-schematics.com/user/lamantecarepistola/)
+- [HermitCraft](https://hermitcraft.com)
+- [Elykdez](https://www.minecraft-schematics.com/user/elykdez/)
+- [Sebuu_](https://www.planetminecraft.com/member/sebuu_/) 
+- [Daantjuhhh](https://www.planetminecraft.com/member/Daantjuhhh)
+- [ByNyo](https://www.minecraft-schematics.com/user/bynyo/)
+- [JDCorp](https://www.minecraft-schematics.com/user/jdcorp/)
