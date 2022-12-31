@@ -13,7 +13,7 @@ if not os.path.isdir(target_dir):
 files = []
 for root, dirs, filenames in os.walk("."):
     for filename in filenames:
-        if filename != "copy_files.py" or "copy_files.sh":
+        if filename != "copy_files.py":
             files.append(os.path.join(root, filename))
 
 # Flag to track whether any files were copied
