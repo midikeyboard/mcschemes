@@ -1,9 +1,9 @@
 
 ![Logo](https://i.postimg.cc/Hsyv1WGn/mcslogo-236x236.png)
 
-![MIT License](https://img.shields.io/badge/Schematics-44-green)
+![MIT License](https://img.shields.io/badge/Schematics-44-informational)
 ![GPLv3 License](https://img.shields.io/badge/Saves-0-informational)
-![AGPL License](https://img.shields.io/badge/Creators-8-critical)
+![AGPL License](https://img.shields.io/badge/Creators-8-informational)
 
 
 # MCSchemes
