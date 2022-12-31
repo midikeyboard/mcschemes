@@ -68,3 +68,13 @@ See `CONTRIBUTE.md` for ways to get started.
 - [Cubical.xyz](https://cubical.xyz/)
 
 
+## Useful Links
+
+- [Minecraft-Schematics](https://www.minecraft-schematics.com)  
+
+- [Planet Minecraft](https://www.planetminecraft.com/)
+
+- [HermitCraft](https://hermitcraft.com/)
+
+
+
